@@ -1,0 +1,41 @@
+body{
+	background-color: #dedede;
+	font-family: 'Roboto Slab', sans-serif;
+
+}
+/*
+.team img{
+	height:30px;
+	width: 50px;
+}
+*/
+
+.carousel-inner .item img{
+	width: 100%;
+	height: 430px;
+}
+
+.matches{
+
+	background-color: #95B9C7;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	 z-index: 9;
+	}
+.empty-space{
+	height: 50px;
+}
+.footer{
+	background-color: #1d1d1d;
+	color: #fff;
+}
+.bottomb h5{
+	float: left;
+}
+.bottom p{
+	padding: 0;
+	float: right;
+}
+
+
+
