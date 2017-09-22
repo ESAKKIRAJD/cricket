@@ -3,12 +3,7 @@ body{
 	font-family: 'Roboto Slab', sans-serif;
 
 }
-/*
-.team img{
-	height:30px;
-	width: 50px;
-}
-*/.navbar{
+.navbar{
 	margin-bottom: 0px;
 }
 .navbar-default{
@@ -18,13 +13,22 @@ body{
 	border:1px solid gray;
 
 }
+.team p {
+	margin: 0;
+	padding: 0;
+}
+.team h4{
+	margin-top: 5px;
+    margin-bottom: 5px;
+
+}
 .matches{
 	margin-bottom: 3px;
 }
 
 .carousel-inner>.item img:first-of-type {
 	width: 100%;
-	height: 430px;
+	height: 500px;
 }
 
 .photos{
@@ -33,19 +37,14 @@ body{
 .carousel-caption img{
  padding: 10px;
 }
+.records p{
+	margin: 0;
+}
 .footer{
 	background-color: #1d1d1d;
 	color: #fff;
+	padding: 10px;
 }
-.bottomb h5{
-	float: left;
-}
-.bottom p{
-	padding: 0;
-	float: right;
-}
-
-
 
 @media (max-width: 767px){
 
